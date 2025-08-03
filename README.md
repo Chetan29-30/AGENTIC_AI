@@ -1,6 +1,4 @@
-Got it! Here’s a **fun and engaging README.md** version for your **Fitness Buddy – Agentic AI** GitHub repo — loaded with emojis and still professional! 🚀💪🔥
 
----
 
 # 🏋️‍♀️ Fitness Buddy – Agentic AI Personal Coach 🤖✨
 
